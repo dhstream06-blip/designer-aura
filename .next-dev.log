@@ -1,0 +1,24 @@
+
+> aura-design@1.0.0 dev
+> next dev --port 3000
+
+   ▲ Next.js 15.5.15
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.56.1:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1964ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.9s (721 modules)
+ GET / 200 in 88ms
+ ✓ Compiled /review in 468ms (709 modules)
+ GET /review/?project=002c1358-f4eb-4729-896b-6f4b200dd2a7 200 in 810ms
+ ✓ Compiled /icon.svg in 195ms (447 modules)
+ GET /icon.svg?48936ec062d58428 200 in 346ms
+ ✓ Compiled / in 145ms (454 modules)
+ GET / 200 in 271ms
+ ✓ Compiled /admin in 360ms (740 modules)
+ GET /admin/ 200 in 459ms
+ GET / 200 in 23ms
+ GET /admin/ 200 in 22ms
